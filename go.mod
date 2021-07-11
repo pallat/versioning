@@ -1,3 +1,3 @@
-module github.com/pallat/versioning/1
+module github.com/pallat/versioning
 
 go 1.16
