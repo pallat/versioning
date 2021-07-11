@@ -1,3 +1,3 @@
 package versioning
 
-var Number = 3
+var Number = 2.0
